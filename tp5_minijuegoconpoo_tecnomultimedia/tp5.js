@@ -1,3 +1,6 @@
+//videoo
+//https://youtu.be/X12HVZn39_8
+
 let j; // 
 let imagenes = []; // Arreglo para almacenar las imágenes
 
